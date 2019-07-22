@@ -5,4 +5,4 @@ Our project takes an algorithmic approach to creating a sustainable food justice
 
 In these ways the project takes a novel approach to reconfiguring food, blockchain, and values to create more sustainable, inclusive and just futures. Outputs include a website, a printed booklet, and a CHI paper, to raise awareness about, and open up new possibilities for, algorithmic solutions to a sustainable food justice system.
 
-The more-than-human values project is funded through the Not-Equal Network+.
+The more-than-human values project is funded through the [Not-Equal Network+](https://not-equal.tech/).
